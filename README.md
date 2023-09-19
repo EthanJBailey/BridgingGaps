@@ -6,7 +6,7 @@ Written by: **Ethan Bailey**
 A transcompiler is a source-to-source translator. It converts the code from one programming language to another.
 It often has been said that many languages stem from and are based on the language known as C. Is there any way we can prove this?
 Though this method may be a rather roundabout way to prove a theory, creating a transcompiler that can turn many other
-high-level programming languages (such as Python, Java, C++, R,  Fortan, etc.).
+high-level programming languages (such as Python, Java, C++, R,  Fortan, etc.) can be an interesting venture.
 
 ### Some of the current models that relate to the project include:
 - CodeCovert AI and CodePal Language Translator - that both convert multiple languages to one another through the use of artificial intelligence.
